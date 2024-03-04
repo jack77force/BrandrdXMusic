@@ -1,12 +1,12 @@
 {
-    "name": "⛦BrandrdXMusic⛦",
+    "name": "⛦ErrorXMusic⛦",
     "description": "A Telegram Music Player Bot, written in Python with Pyrogram and Py-Tgcalls.",
     "logo": "https://te.legra.ph/file/62fa7c81c56c1ae31c844.jpg",
     "keywords": [
     "python3",
     "telegram",
     "bot",
-    "Brandrd",
+    "Error",
     "MusicBot",
     "telegram-bot",
     "pyrogram"
